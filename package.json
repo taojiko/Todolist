@@ -1,0 +1,26 @@
+{
+  "name": "awesome-nuxt-app",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "@nuxtjs/style-resources": "^1.2.1",
+    "core-js": "^3.19.3",
+    "node-sass": "^7.0.1",
+    "nuxt": "^2.15.8",
+    "sass": "^1.49.8",
+    "sass-loader": "10.1.1",
+    "stylus": "^0.56.0",
+    "stylus-loader": "^6.2.0",
+    "vue": "^2.6.14",
+    "vue-server-renderer": "^2.6.14",
+    "vue-template-compiler": "^2.6.14",
+    "webpack": "^4.46.0"
+  },
+  "devDependencies": {}
+}
